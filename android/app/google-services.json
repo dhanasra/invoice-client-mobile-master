@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895217625907",
+    "project_id": "graphql-api-8dd81",
+    "storage_bucket": "graphql-api-8dd81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895217625907:android:42c87c74f9fbe063de6c46",
+        "android_client_info": {
+          "package_name": "com.spiderlingz.im"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895217625907-n2r8kk888o8fum5o4k2u8m1hmls6uqcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxRIe3SHgLC10oEH9wwdfyNaEntI0JcWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895217625907-n2r8kk888o8fum5o4k2u8m1hmls6uqcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
